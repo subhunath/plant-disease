@@ -17,7 +17,7 @@ export function Navbar() {
             <Link href="/home">Home</Link>
           </li>
           <li className="cursor-pointer hover:underline">
-            <Link href="/about">About</Link>
+            <Link href="/about">About us</Link>
           </li>
         </ul>
       </div>
